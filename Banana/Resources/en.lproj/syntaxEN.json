@@ -1,0 +1,26 @@
+{
+	"_method_": {},
+	"cs.Apple": {
+		"Info": {
+			"new()": {
+				"Syntax": "**.new**()",
+				"Params": [],
+				"Summary": ""
+			}
+		}
+	},
+	"Info": {
+		"version": {
+			"Syntax": "version : Text"
+		},
+		"gorilla": {
+			"Syntax": "gorilla : cs.Gorilla.Info"
+		},
+		"description": {
+			"Syntax": "description : Text"
+		},
+		"name": {
+			"Syntax": "name : Text"
+		}
+	}
+}
