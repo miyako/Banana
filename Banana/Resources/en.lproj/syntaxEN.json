@@ -1,6 +1,6 @@
 {
 	"_method_": {},
-	"cs.Apple": {
+	"cs.Banana": {
 		"Info": {
 			"new()": {
 				"Syntax": "**.new**()",
@@ -12,9 +12,6 @@
 	"Info": {
 		"version": {
 			"Syntax": "version : Text"
-		},
-		"gorilla": {
-			"Syntax": "gorilla : cs.Gorilla.Info"
 		},
 		"description": {
 			"Syntax": "description : Text"
